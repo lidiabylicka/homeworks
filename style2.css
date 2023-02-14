@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
   flex-direction: row;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 30px;
+  font-size: 20px;
   gap: 0.5em;
 }
 #leftHandSide {
@@ -17,7 +17,7 @@ body {
 }
 #rightHandSide {
   width: 60vw;
-  height: 97vh;
+  height: 100vh;
   background-color: #082ccc;
   padding: 1em;
 }
@@ -55,15 +55,15 @@ body {
   padding: 1em;
 }
 #Lorem3 {
-  width: 45.5%;
-  height: 85%;
+  width: 48%;
+  height: 90%;
   display: flex;
   background-color: #787474;
   padding: 1em;
 }
 #bottomPannel {
   width: 60vw;
-  height: 10vh;
+  height: 15vh;
   background-color: #d06464;
   padding: 1em;
 }
